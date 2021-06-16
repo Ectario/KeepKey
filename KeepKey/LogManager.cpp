@@ -12,5 +12,5 @@ void LogManager::save(string s)
 
 void LogManager::init(string path)
 {
-    this->path = path + "keyLog.txt";
+    this->path = path + "/keyLog.txt";
 }

@@ -3,6 +3,9 @@ A KeyLogger in C++. KeepKey analyze and record keystrokes in a file.
 
 ## Installation
 
+* Minimum supported client : Windows 2000 Professional [desktop apps only]
+* Minimum supported server : Windows 2000 Server [desktop apps only]
+
 Clone the repository : `git clone https://github.com/Ectario/KeepKey.git`
 
 ## Usage
